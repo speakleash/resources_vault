@@ -1,2 +1,2 @@
-# resources_vault
+# Resources vault
 Repository for knowledge resources
