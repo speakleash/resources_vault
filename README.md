@@ -1,2 +1,2 @@
 # Resources vault
-Repository for knowledge resources
+Repository for the knowledge resources
